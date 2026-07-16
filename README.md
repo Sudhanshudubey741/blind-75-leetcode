@@ -27,10 +27,14 @@ The goal of this challenge is to strengthen my understanding of:
 
 | Topic | Status |
 |---------|---------|
-| Arrays | ⬜ |
-| Strings | ⬜ |
+| Arrays  And Hashing | ⬜ |
+| Two Pointer | ⬜ |
+| Sliding Window | ⬜ |
+| Stack  | ⬜ |
+| Binary Search | ⬜ |
 | Linked List | ⬜ |
 | Trees | ⬜ |
+| Heap | ⬜ |
 | Graphs | ⬜ |
 | Dynamic Programming | ⬜ |
 | Binary Search | ⬜ |
